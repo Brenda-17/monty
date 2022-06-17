@@ -1,2 +1,1 @@
-monty
-# This is a collaboration 
+# This is an ALX collaboration project
